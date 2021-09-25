@@ -1,16 +1,39 @@
 # lucifer_coin
 
-A new Flutter project.
+## Ethereum-Blockchain-Solidity-Metamasak-SmarContract-Web3
 
-## Getting Started
+In this app user can check balance ,deposit and withdraw its purchased Lucifer Coin from the Ethereum Network as per Ethereum latest Gas fees, 
 
-This project is a starting point for a Flutter application.
+✅  ETHEREUM NETWORK\
+✅  Solidity\
+✅  HTTP\
+✅  WEB3\
+✅  Json Data\
+✅  METAMASK\
+✅  SMART CONTRACTS
 
-A few resources to get you started if this is your first Flutter project:
+##  screenshots
+![Screenshot_2021-09-25-15-44-56-523_com example lucifer_coin](https://user-images.githubusercontent.com/51333268/134768624-98e6ea0d-e94b-4d0d-bf31-2892478816d9.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Installation
+
+```
+flutter pub get
+```
+Usage 
+
+```
+flutter run
+```
+
+
+### How To Run
+-----------------------
+#### Clone this repo
+#### Run flutter packages get
+#### Run flutter run (remember open simulator or connect physical device, iOS auto run additional command pod install)
+
+
+
