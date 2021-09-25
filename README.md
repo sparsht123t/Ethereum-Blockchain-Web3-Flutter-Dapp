@@ -19,7 +19,7 @@ In this app user can check balance ,deposit and withdraw its purchased Lucifer C
 
 
 
-<img src="https://user-images.githubusercontent.com/51333268/134768676-9c203590-20b6-4039-a466-4d9b0a796c0c.PNG" height="70"  width="300"/>
+<img src="https://user-images.githubusercontent.com/51333268/134768676-9c203590-20b6-4039-a466-4d9b0a796c0c.PNG" height="700"  width="300"/>
 
 
 ![transactdata](https://user-images.githubusercontent.com/51333268/134768680-6472ae9d-5a1b-4bc2-980d-ab82104237f1.PNG)
