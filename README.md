@@ -1,6 +1,6 @@
 # LUCIFER COIN
 
-## Ethereum-Blockchain-Solidity-Metamasak-SmarContract-Web3
+## Ethereum-Blockchain-Solidity-Metamasak-SmartContract-Web3
 t
 
 In this app user can check balance ,deposit and withdraw its purchased Lucifer Coin from his Ethereum balance account by the Ethereum Network as per Ethereum latest Gas fees, 
